@@ -17,4 +17,4 @@ Topaz Photo AI Edition. AI noise reduction, sharpening, upscaling, subject maski
 
 
 TAGS
-topaz-photo-ai, ai-photo-enhancer, noise-reduction-ai, topaz-denoise-ai, topaz-labs                  
+topaz-photo-ai, ai-photo-enhancer, noise-reduction-ai, topaz-denoise-ai, topaz-labs                   
